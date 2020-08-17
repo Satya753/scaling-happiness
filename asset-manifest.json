@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "./static/js/main.ba69b6f0.chunk.js",
-    "main.js.map": "./static/js/main.ba69b6f0.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1ce99b29.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1ce99b29.js.map",
-    "static/js/2.1f0b9f73.chunk.js": "./static/js/2.1f0b9f73.chunk.js",
-    "static/js/2.1f0b9f73.chunk.js.map": "./static/js/2.1f0b9f73.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.60d36d96721b725eba61cc00f0a8a42b.js": "./precache-manifest.60d36d96721b725eba61cc00f0a8a42b.js",
-    "service-worker.js": "./service-worker.js",
-    "static/js/2.1f0b9f73.chunk.js.LICENSE.txt": "./static/js/2.1f0b9f73.chunk.js.LICENSE.txt"
+    "main.js": "/scaling-happiness/static/js/main.ba69b6f0.chunk.js",
+    "main.js.map": "/scaling-happiness/static/js/main.ba69b6f0.chunk.js.map",
+    "runtime-main.js": "/scaling-happiness/static/js/runtime-main.6deb5096.js",
+    "runtime-main.js.map": "/scaling-happiness/static/js/runtime-main.6deb5096.js.map",
+    "static/js/2.54b42001.chunk.js": "/scaling-happiness/static/js/2.54b42001.chunk.js",
+    "static/js/2.54b42001.chunk.js.map": "/scaling-happiness/static/js/2.54b42001.chunk.js.map",
+    "index.html": "/scaling-happiness/index.html",
+    "precache-manifest.ae8405fb9462ef638327d25bcc891937.js": "/scaling-happiness/precache-manifest.ae8405fb9462ef638327d25bcc891937.js",
+    "service-worker.js": "/scaling-happiness/service-worker.js",
+    "static/js/2.54b42001.chunk.js.LICENSE.txt": "/scaling-happiness/static/js/2.54b42001.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ce99b29.js",
-    "static/js/2.1f0b9f73.chunk.js",
+    "static/js/runtime-main.6deb5096.js",
+    "static/js/2.54b42001.chunk.js",
     "static/js/main.ba69b6f0.chunk.js"
   ]
 }
