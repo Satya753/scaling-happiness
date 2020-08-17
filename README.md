@@ -1,2 +1,0 @@
-# scaling-happiness
-empty repository
